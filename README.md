@@ -1,6 +1,3 @@
-# ELC-QLSTM-100kW
-Optimasi Parameter PI ELC PLTMH 100 kW Menggunakan PSO + Quantum LSTM
-
 # Optimasi Parameter PI pada Electronic Load Controller (ELC) PLTMH 100 kW Menggunakan PSO + Quantum LSTM
 
 Repo ini berisi implementasi lengkap skripsi/tesis dengan judul di atas. Pendekatan yang digunakan adalah Skenario A: Quantum LSTM (QLSTM) dilatih sebagai *surrogate model* plant PLTMH untuk mempercepat proses optimasi parameter PI menggunakan Particle Swarm Optimization (PSO).
